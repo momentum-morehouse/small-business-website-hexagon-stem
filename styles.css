@@ -1,0 +1,20 @@
+.description {
+    text-align: center;
+}
+h1 {
+  color: green;
+  font-size: 40px;
+}
+img {
+  width: 1600px;
+  height: 800px;
+}
+body {
+  background-color:cornsilk;
+}
+h2 {
+  color: black;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
